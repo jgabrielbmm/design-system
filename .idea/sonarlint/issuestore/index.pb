@@ -15,8 +15,6 @@ L
 packages/tokens/src/index.ts,c/f/cf5a30fda5a5bf748bc9431fe4df4b94ef43b347
 M
 packages/tokens/src/colors.ts,4/e/4e419db3f2b0154324375d02d685beee7a660d0d
-Q
-!packages/tokens/src/font-sizes.ts,6/6/66a64c4a27a890a6b5a757b8727978d74b09e08f
 L
 packages/ts-config/base.json,0/4/0406103b9a4d4ca1b54a66d48ed6b6a8dcb58a99
 M
@@ -49,8 +47,6 @@ X
 (packages/docs/src/pages/home.stories.mdx,1/0/10d2e63e36d74d6ba6f3871d58a1b02c29b90036
 K
 packages/docs/tsconfig.json,a/4/a4f2240d0ea3d3e3b7f392acd2f79d3825ae22ba
-K
-packages/react/package.json,1/8/18c080c33f86998efd942b7ccf3a64c197286b54
 J
 packages/docs/package.json,9/6/96eb3f2bacfda104cc55aa740b4837e308e91b84
 [
@@ -89,7 +85,5 @@ turbo.json,4/0/40849b8c191dabc1178962b4bc795a4b97fbc7d2
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-R
-"packages/react/src/styles/index.ts,7/7/771dfb3e1aa5bc469dda2dc92d7667f4d40ee656
 U
 %packages/react/src/components/Box.tsx,1/e/1ed6e25fcddfaaba68af236cd813f92d7de1a657
