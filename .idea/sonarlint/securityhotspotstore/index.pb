@@ -85,5 +85,13 @@ turbo.json,4/0/40849b8c191dabc1178962b4bc795a4b97fbc7d2
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-U
-%packages/react/src/components/Box.tsx,1/e/1ed6e25fcddfaaba68af236cd813f92d7de1a657
+^
+.packages/react/src/components/Avatar/styles.ts,2/4/24084b8cf3686febf0fb348ae5b84d59ec8f2083
+a
+1packages/react/src/components/TextInput/styles.ts,4/3/43b9e53e1986498e15b6e29d3421d6e7260b6ef6
+K
+packages/react/package.json,1/8/18c080c33f86998efd942b7ccf3a64c197286b54
+`
+0packages/react/src/components/Checkbox/styles.ts,b/4/b48ce3fc79cb4c41b9b9c40a546d0781f6396b91
+L
+packages/react/src/index.tsx,4/3/431cbeb5c03987bd42ff41f3c3cf27086494f5b9
