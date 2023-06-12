@@ -45,10 +45,6 @@ X
 (packages/docs/src/pages/home.stories.mdx,1/0/10d2e63e36d74d6ba6f3871d58a1b02c29b90036
 [
 +packages/docs/src/components/ColorsGrid.tsx,d/a/dae3e747fb90b290597153b8b67662a7df5f0b67
-K
-packages/docs/tsconfig.json,a/4/a4f2240d0ea3d3e3b7f392acd2f79d3825ae22ba
-J
-packages/docs/package.json,9/6/96eb3f2bacfda104cc55aa740b4837e308e91b84
 X
 (packages/docs/src/styles/tokens-grid.css,7/3/735d031d741c932227ad3ddcb527d832b204b9b4
 [
