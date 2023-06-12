@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/jgabrielbmm.png',
     alt: 'João Gabriel Bento',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

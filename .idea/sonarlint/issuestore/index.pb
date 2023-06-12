@@ -41,8 +41,6 @@ L
 packages/docs/vite.config.js,9/e/9ee70f54e0861a76ebec9e903d607d4a3bb8ab46
 L
 packages/react/dist/index.js,b/f/bfddc0bf1dff22e4c9d824e2d867a8e5bfbf5a8b
-S
-#packages/docs/.storybook/preview.js,e/6/e69ed887c486ac5ded582eca7a9b1667e750d4fa
 X
 (packages/docs/src/pages/home.stories.mdx,1/0/10d2e63e36d74d6ba6f3871d58a1b02c29b90036
 K
@@ -51,8 +49,6 @@ J
 packages/docs/package.json,9/6/96eb3f2bacfda104cc55aa740b4837e308e91b84
 [
 +packages/docs/src/components/ColorsGrid.tsx,d/a/dae3e747fb90b290597153b8b67662a7df5f0b67
-P
- packages/docs/.storybook/main.js,8/9/89f2f3d26cb56f4d44307abec183a1acc6ae216d
 X
 (packages/docs/src/styles/tokens-grid.css,7/3/735d031d741c932227ad3ddcb527d832b204b9b4
 a
@@ -85,13 +81,7 @@ turbo.json,4/0/40849b8c191dabc1178962b4bc795a4b97fbc7d2
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-^
-.packages/react/src/components/Avatar/styles.ts,2/4/24084b8cf3686febf0fb348ae5b84d59ec8f2083
-a
-1packages/react/src/components/TextInput/styles.ts,4/3/43b9e53e1986498e15b6e29d3421d6e7260b6ef6
 K
 packages/react/package.json,1/8/18c080c33f86998efd942b7ccf3a64c197286b54
-`
-0packages/react/src/components/Checkbox/styles.ts,b/4/b48ce3fc79cb4c41b9b9c40a546d0781f6396b91
 L
 packages/react/src/index.tsx,4/3/431cbeb5c03987bd42ff41f3c3cf27086494f5b9

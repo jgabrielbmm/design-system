@@ -26,7 +26,7 @@ export const {
   },
   theme: {
     colors,
-    sizes: fontSizes,
+    fontSizes,
     fontWeights,
     fonts,
     lineHeights,
