@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@bento-ignite-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@bento-ui/react'
 
 export default {
   title: 'Form/Checkbox',

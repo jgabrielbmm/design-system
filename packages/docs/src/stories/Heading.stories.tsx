@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@bento-ignite-ui/react'
+import { Heading, HeadingProps } from '@bento-ui/react'
 
 export default {
   title: 'Typography/Heading',

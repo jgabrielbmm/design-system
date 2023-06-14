@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Avatar, AvatarProps } from '@bento-ignite-ui/react'
+import { Avatar, AvatarProps } from '@bento-ui/react'
 
 export default {
   title: 'Data Display/Avatar',

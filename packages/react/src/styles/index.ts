@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@bento-ignite-ui/tokens'
+} from '@bento-ui/tokens'
 
 export const {
   styled,

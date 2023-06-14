@@ -1,5 +1,5 @@
 {
-  "name": "@bento-ignite-ui/react",
+  "name": "@bento-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@bento-ignite-ui/eslint-config": "*",
-    "@bento-ignite-ui/tokens": "*",
-    "@bento-ignite-ui/ts-config": "*",
+    "@bento-ui/eslint-config": "*",
+    "@bento-ui/tokens": "*",
+    "@bento-ui/ts-config": "*",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
     "react": "^18.2.0",

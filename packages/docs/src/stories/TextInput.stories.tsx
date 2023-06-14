@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@bento-ignite-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@bento-ui/react'
 
 export default {
   title: 'Form/Text Input',

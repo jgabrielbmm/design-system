@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@bento-ignite-ui/react'
+import { Text, TextProps } from '@bento-ui/react'
 
 export default {
   title: 'Typography/Text',

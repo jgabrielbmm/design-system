@@ -1,5 +1,5 @@
 {
-  "extends": "@bento-ignite-ui/ts-config/base.json",
+  "extends": "@bento-ui/ts-config/base.json",
   "include": [
     "src"
   ]
