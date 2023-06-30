@@ -25,8 +25,6 @@ M
 packages/ts-config/react.json,9/6/96675df56a680884a187288e5ce9ff4b25b4088d
 N
 packages/tokens/.eslintrc.json,6/9/697ba1c80f0d1ecc15a946b3f81c892f202d8f32
-M
-packages/tokens/src/colors.ts,4/e/4e419db3f2b0154324375d02d685beee7a660d0d
 Q
 !packages/tokens/src/font-sizes.ts,6/6/66a64c4a27a890a6b5a757b8727978d74b09e08f
 S
@@ -117,8 +115,6 @@ P
  packages/docs/.storybook/main.js,8/9/89f2f3d26cb56f4d44307abec183a1acc6ae216d
 O
 packages/ts-config/package.json,d/0/d071d63a95e5b653538b6bc9cae3e3b46dc3a803
-L
-packages/tokens/package.json,2/6/2646b6af635941de7ebabee4240d94c902c91a73
 A
 package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
 D
