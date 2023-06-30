@@ -15,8 +15,6 @@ L
 packages/tokens/src/radii.ts,9/a/9aa42720b40afab07d55fdaae4f22464f08fc74c
 ^
 .packages/react/src/components/Avatar/index.tsx,d/2/d2b9b0ffd05a7b98ecbf67968261925829ca19c6
-^
-.packages/react/src/components/Avatar/styles.ts,2/4/24084b8cf3686febf0fb348ae5b84d59ec8f2083
 a
 1packages/react/src/components/MultiStep/styled.ts,e/5/e57ee6c6af8022c8e754f50f7b41e92f904ab187
 L
@@ -39,14 +37,6 @@ V
 &packages/react/src/components/Text.tsx,2/2/2206cea8dd61d3859a61e94217c9c11dfcef1cff
 Y
 )packages/react/src/components/Heading.tsx,d/4/d44ccb6f13df600bbd278b7fd44b570f44a6a8f1
-X
-(packages/react/src/components/Button.tsx,5/7/5730832e77f3ce3f853babc2c3fd0ebc715c3921
-U
-%packages/react/src/components/Box.tsx,1/e/1ed6e25fcddfaaba68af236cd813f92d7de1a657
-a
-1packages/react/src/components/TextInput/index.tsx,a/5/a588dbacec3d4a12e56ed9e2c1b139ce62fdd035
-a
-1packages/react/src/components/TextInput/styles.ts,4/3/43b9e53e1986498e15b6e29d3421d6e7260b6ef6
 a
 1packages/react/src/components/MultiStep/index.tsx,b/e/be5f11ad252b21a11dc0e181a57a1e91fe361990
 L
@@ -79,10 +69,6 @@ Z
 *packages/docs/src/stories/Text.stories.tsx,7/4/7460e32e7e22d0678861f0157a2fe3be5e7896f6
 ^
 .packages/docs/src/stories/TextArea.stories.tsx,a/d/adf8aed830e0ce2cb0da90fdfe638692a8de8c08
-_
-/packages/docs/src/stories/TextInput.stories.tsx,4/4/4436400f926698f301ee7014c136cc1316040a61
-L
-packages/react/src/index.tsx,4/3/431cbeb5c03987bd42ff41f3c3cf27086494f5b9
 L
 packages/docs/vite.config.js,9/e/9ee70f54e0861a76ebec9e903d607d4a3bb8ab46
 H
@@ -105,8 +91,6 @@ Y
 +packages/docs/src/components/ColorsGrid.tsx,d/a/dae3e747fb90b290597153b8b67662a7df5f0b67
 K
 packages/react/package.json,1/8/18c080c33f86998efd942b7ccf3a64c197286b54
-R
-"packages/react/src/styles/index.ts,7/7/771dfb3e1aa5bc469dda2dc92d7667f4d40ee656
 L
 packages/docs/.eslintrc.json,6/8/68eab9e98f72af900e3e623fc81c44cbc5ed5be0
 e
